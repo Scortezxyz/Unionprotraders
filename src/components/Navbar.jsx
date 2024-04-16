@@ -2,8 +2,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
-import fibologo from "public/fibologo.png";
-import fibologo1 from "public/fibomining.png";
+import fibologo from "public/logo.png";
+import fibologo1 from "public/image.png";
 
 const Navbar = () => {
   const [showNav, SetshowNav] = useState(false);

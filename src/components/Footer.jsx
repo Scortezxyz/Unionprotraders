@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="hover:text-[#307ea1]">Privacy Policy</p>
         <p className="hover:text-[#307ea1]"> Terms & Conditions</p>
       </div>
-      <p>admin@locoonstrade.com</p>
+      <p>admin@unionprotrades.com</p>
     </div>
   );
 };
