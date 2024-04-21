@@ -23,8 +23,8 @@ const data = [
   },
   {
     id: "5",
-    title: "Q. Can I reinvest from my UnionPro-Trade account balance ?",
-    desc: "Yes, you can reinvest from your UnionPro-Trade account balance, only after you have made a deposit and start earning on the platform.",
+    title: "Q. Can I reinvest from my UnionPro-Traders account balance ?",
+    desc: "Yes, you can reinvest from your UnionPro-Traders account balance, only after you have made a deposit and start earning on the platform.",
   },
 ];
 

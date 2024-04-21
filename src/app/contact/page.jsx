@@ -9,13 +9,13 @@ const ContactPage = () => {
         <h1 className="font-bold text-[18px]">Home / Contact</h1>
       </div>
       <div className="flex flex-col gap-5 items-center justify-center">
-        <h1 className="font-bold text-[50px]">Contact UnionPro-Trade</h1>
+        <h1 className="font-bold text-[50px]">Contact UnionPro-Traders</h1>
         <p className="text-[22px] leading-normal text-center">
           Domain and all rights belong to: <br />
-          UnionPro-Trade <br />
+          UnionPro-Traders <br />
           Registration No. TX0089 <br />
           Payment transactions are managed by: <br />
-          UnionPro-Trade PAYMENT <br />
+          UnionPro-Traders PAYMENT <br />
           Registration No. R3400 <br />
           admin@unionprotraders.com <br />
           ADDRESS: 23 Osborne Road KILTON TS13 4AE United States

@@ -9,7 +9,7 @@ const WhatIs = () => {
       <div className="flex flex-1 flex-col gap-10">
         <div>
           <p className="text-[#307ea1] text-2xl font-medium py-4">
-            WHAT IS UnionPro-Trade
+            WHAT IS UnionPro-Traders
           </p>
           <h1 className="font-bold text-3xl">About UnionPro-Trade</h1>
         </div>
